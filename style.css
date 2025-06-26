@@ -70,3 +70,8 @@ header li {
     color: #F9FAF8;
     font-weight: 900;
 }
+
+.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
