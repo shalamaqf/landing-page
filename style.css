@@ -26,3 +26,9 @@ header .logo {
     color: #F9FAF8;
     font-weight: bold;
 }
+
+header a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
