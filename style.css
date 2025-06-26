@@ -57,3 +57,10 @@ header li {
     background-color: #1F2937;
     min-height: 400px;
 }
+
+.hero img {
+    width: 100%;
+    max-width: 400px;
+    aspect-ratio: 16/8;
+    object-fit: cover;
+}
