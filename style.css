@@ -55,13 +55,13 @@ header li {
 
 .hero {
     background-color: #1F2937;
-    min-height: 400px;
+    min-height: 500px;
 }
 
 .hero img {
     width: 100%;
-    max-width: 400px;
-    aspect-ratio: 16/8;
+    max-width: 500px;
+    aspect-ratio: 16/7;
     object-fit: cover;
 }
 
@@ -69,11 +69,13 @@ header li {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    line-height: 1.2;
 }
 
 .hero p {
     font-size: 18px;
     color: #E5E7EB;
+    margin-bottom: 10px;
 }
 
 .hero .sign-up-btn-hero {
@@ -84,4 +86,11 @@ header li {
     padding: 7px 33px;
     border-radius: 8px;
     border-color: #3882F6;
+}
+
+.hero .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: inherit;
 }
