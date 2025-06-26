@@ -75,3 +75,13 @@ header li {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.hero .sign-up-btn-hero {
+    background-color: #3882F6;
+    font-size: 18px;
+    font-weight: bold;
+    color: #E5E7EB;
+    padding: 7px 33px;
+    border-radius: 8px;
+    border-color: #3882F6;
+}
