@@ -52,3 +52,8 @@ header .navbar {
 header li { 
     margin-left: 20px;
 }
+
+.hero {
+    background-color: #1F2937;
+    min-height: 400px;
+}
