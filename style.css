@@ -48,3 +48,7 @@ header .container {
 header .navbar {
     display: flex;
 }
+
+header li { 
+    margin-left: 20px;
+}
