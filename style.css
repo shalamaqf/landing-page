@@ -103,9 +103,3 @@ header li {
 .content {
     min-height: 500px;
 }
-
-.content img {
-    max-width: 200px;
-    aspect-ratio: 1/1;
-    object-fit: cover;
-}
