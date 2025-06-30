@@ -125,4 +125,11 @@ header li {
 .content .container {
     display: flex;
     justify-content: center;
+    gap: 70px;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    text-align: center;
 }
