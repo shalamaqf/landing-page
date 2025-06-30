@@ -147,3 +147,10 @@ header li {
     justify-content: center;
     align-items: center;
 }
+
+.quote p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
