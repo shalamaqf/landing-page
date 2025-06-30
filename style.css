@@ -100,3 +100,6 @@ header li {
 }
 
 /* boxes/main section */
+.content {
+    min-height: 500px;
+}
