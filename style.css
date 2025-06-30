@@ -135,3 +135,9 @@ header li {
     height: 150px;
     text-align: center;
 }
+
+/* additional/quote section */
+.additional {
+    background-color: #E5E7EB;
+    min-height: 500px;
+}
