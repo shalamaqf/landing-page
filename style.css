@@ -162,3 +162,10 @@ blockquote {
     align-items: center;
     text-align: center;
 }
+
+blockquote .footer-quote {
+    font-size: 25px;
+    font-weight: bold;
+    align-self: flex-end;
+    margin-right: 20px;
+}
