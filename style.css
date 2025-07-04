@@ -227,3 +227,15 @@ footer .container {
 footer p {
     color: #E5E7EB;
 }
+
+@media (max-width: 768px) {
+    .hero .container {
+        flex-direction: column;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .hero img {
+       margin-bottom: 20px;
+    }
+}
