@@ -191,3 +191,8 @@ blockquote .footer-quote {
 .sign-up-modal p {
     color: #E5E7EB;
 }
+
+.sign-up-modal h4 {
+    font-size: 20px;
+}
+
