@@ -177,7 +177,7 @@ blockquote div {
 
 /* modal section */
 .modal {
-    min-height: 500px;
+    min-height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -190,6 +190,7 @@ blockquote div {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border-radius: 10px;
 }
 
 .sign-up-modal h4,
