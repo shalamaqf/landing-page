@@ -186,3 +186,8 @@ blockquote .footer-quote {
     justify-content: space-around;
     align-items: center;
 }
+
+.sign-up-modal h4,
+.sign-up-modal p {
+    color: #E5E7EB;
+}
